@@ -3,7 +3,9 @@
 
 int main(){
     printf("igao 3000");
-    printf("top10");
-    printf("");
+    int x;
+    int y;
+    int z;
+    int q;
     return 0;
 }

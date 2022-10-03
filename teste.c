@@ -5,5 +5,6 @@ int main(){
     printf("igao 3000");
     int x;
     int y;
+    int z;
     return 0;
 }
